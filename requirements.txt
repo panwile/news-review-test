@@ -1,0 +1,14 @@
+django
+Pillow
+mysqlclient
+requests
+celery
+redis
+django-debug-toolbar
+pytest
+model_bakery
+pytest-django
+ipdb
+black
+isort
+flake8
